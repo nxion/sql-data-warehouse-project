@@ -1,2 +1,2 @@
-# sql-data-warehouse-project
-Building a modern data warehouse with MS SQL server, ETL processes, data modeling and analyitics.
+# My MS SQL Data Warehouse Project
+This is a placeholder
