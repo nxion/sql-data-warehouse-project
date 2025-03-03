@@ -12,6 +12,9 @@ Since this is designed as a portfolio project, it highlights industry’s best p
 ## 💡 Alternatives Database Systems
 This portfolio project was based off using Microsoft SQL Server since it is a common industry standard. I will also be implementing in PostgreSQL, MariaDB, MySQL and Google BigQuery to showcase my adaptation of other database technologies.
 
+## 🦺 Project Expansion
+While not part of the original project. I thought of a AI powered chat interface that could query the data and action results using NLP and a simple chat interface. More to come...
+
 ---
 ## 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
